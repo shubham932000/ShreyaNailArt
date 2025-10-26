@@ -7,11 +7,6 @@
       "runtime": "nodejs18.x"
     }
   },
-  "env": {
-    "VITE_SUPABASE_URL": "@vite_supabase_url",
-    "VITE_SUPABASE_PUBLISHABLE_KEY": "@vite_supabase_publishable_key",
-    "DATABASE_URL": "@database_url"
-  },
   "headers": [
     {
       "source": "/(.*)",
