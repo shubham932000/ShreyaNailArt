@@ -210,7 +210,7 @@ const handler = async (req: Request): Promise<Response> => {
               
               <div class="footer">
                 <p style="margin: 0 0 10px 0;">
-                  <strong>Artistry Perfected Nail Salon</strong> 💅
+                  <strong>Shreya Nail Art Studio</strong> 💅
                 </p>
                 <p style="margin: 0; font-size: 12px;">
                   Where elegance meets creativity ✨
@@ -224,7 +224,7 @@ const handler = async (req: Request): Promise<Response> => {
         </html>`;
 
     await client.send({
-      from: `Artistry Perfected Nail Salon <${GMAIL_USERNAME}>`,
+      from: `Shreya Nail Art Studio <${GMAIL_USERNAME}>`,
       to: email,
       subject: "🎉 Your Nail Appointment is Confirmed! ✨",
       content: "auto",

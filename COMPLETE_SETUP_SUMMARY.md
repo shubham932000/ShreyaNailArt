@@ -40,7 +40,7 @@ GMAIL_USERNAME=ssv932000@gmail.com
 4. Check `ssv932000@gmail.com` for the beautiful confirmation email! 📧
 
 ## 🎯 What You'll Get
-- ✅ Professional nail salon website
+- ✅ Professional nail salon website (Shreya Nail Art Studio)
 - ✅ Online booking system
 - ✅ Gmail email confirmations sent from `ssv932000@gmail.com`
 - ✅ Beautiful HTML email templates

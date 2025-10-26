@@ -17,7 +17,7 @@ const transporter = nodemailer.createTransport({
 
 // Test email content
 const testEmail = {
-  from: 'Artistry Perfected Nail Salon <ssv932000@gmail.com>',
+  from: 'Shreya Nail Art Studio <ssv932000@gmail.com>',
   to: 'ssv932000@gmail.com', // Send to yourself for testing
   subject: '🧪 Local Test - Gmail SMTP Working! ✨',
   html: `

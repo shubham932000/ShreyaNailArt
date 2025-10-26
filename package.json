@@ -10,7 +10,8 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "deploy:supabase": "chmod +x deploy-supabase.sh && ./deploy-supabase.sh",
-    "test:email": "node test-email-local.js"
+    "test:email": "node test-email-local.js",
+    "test:shreya": "node test-email-shreya.js"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
